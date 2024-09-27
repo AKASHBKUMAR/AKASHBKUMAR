@@ -2,7 +2,8 @@
 #### Developer
 I am an enthusiastic and driven developer committed to lifelong learning and personal growth. With a passion for Java and backend development, I am eager to contribute to groundbreaking projects in the tech industry. Recognized for my exceptional problem-solving skills and collaborative spirit, I thrive in team environments and enjoy tackling complex challenges. As I embark on my career in full-stack development, I am excited to leverage my skills and creativity to build innovative solutions that make a meaningful impact.
 
-Skills: SPRING BOOT / JAVA / Javascript / HTML / CSS
+#### Skills: 
+![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,javascript)
 
 - 🌱 I’m currently learning React 
 - 💬 Ask me about Development 
