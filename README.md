@@ -11,7 +11,7 @@ I am an enthusiastic and driven developer committed to lifelong learning and per
 <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" height = "40"/>
 </div>
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning JAVA Full Stack
   
 - 💬 Ask me about Development
   
